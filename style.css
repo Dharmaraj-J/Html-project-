@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+
+}
+.demo{
+    width: 350px;
+
+}
+.demo1{
+    align: right;
+    width: 280px;
+}
+.demo2{
+    align:right;
+    width: 347px;
+}
+h1 {
+    color:aliceblue;
+}
+h2 { text-align: right; }
